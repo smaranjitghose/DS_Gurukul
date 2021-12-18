@@ -2,32 +2,14 @@
 
 List of resources, interview questions, concepts I use for my Data Science work.
 
-## Basics of Programming and Python
+# Topics:
 
-## Basics of Data Structures and Algorithms
+- Basics of Programming with Python
+- Data Visualization and Exploratory Data Analysis
+- Probability and Statistics
+- Statistical Testing and Inference
+- Linear Algebra
 
-## Exploratory Data Analysis
-
-## Discrete Mathematics
-
-#### Probability and Statistics
-
-- Basics of Probability, Random Variable, Population, Sample
-- Normal Distribution, CDF, PDF
-- Central Limit Theorem
-- Testing Normality of a distribution
-- Various Distributions for Random Variables:
-  - Normal
-  - Exponential
-  - Hypergeometric
-  - Uniform
-  - Poisson
-  - Pareto
-  - Binomial
-  - Bernouli
-- Central Limit Theorem
-- Hypothesis Testing
-- [Interview Questions]()
-- ANOVA
-- Bayes Theorem
-- Expectaion, Moment Generating Function
+- CNN
+- Basics of RNN
+- Basics of GANs
