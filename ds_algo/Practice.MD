@@ -2,9 +2,13 @@
 
 ## Leetcode
 
-| Question                                                                      | Solution                               | Tag(s) |
-| ----------------------------------------------------------------------------- | -------------------------------------- | ------ |
-| [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Soln](./leetcode/220.py) | Hashmap[Dict],  Bucket Sort        |
+|                                      Question                                  |                Solution                | Tag(s) |
+| -----------------------------------------------------------------------------  | -------------------------------------- | ------ |
+|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)   | [Soln](./leetcode/219.py) | Hashtable |
+|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Soln](./leetcode/220.py) | Hashtable, Bucket Sort |
+
+* Hashtable => Dictionary in Python
+      - DefaultDict
 
 ## Codewars
 
