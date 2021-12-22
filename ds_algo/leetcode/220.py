@@ -16,9 +16,9 @@
 # - O(1) to remove the first bucket from the bucket dictionary
 # - O(1) to find a bucket in the bucket dictionary
 # - O(1) for all other arithmetic and comparison operations
-# - O(n) 
+# - Hence final time complexity is O(n)
 #
-# Code:
+# ## Code:
 class Solution:
     def containsNearbyAlmostDuplicate(self, nums: List[int], k: int, t: int) -> bool:
         # There is no difference between required indices of the elements in the list

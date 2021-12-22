@@ -4,11 +4,13 @@
 
 |                                      Question                                  |                Solution                | Tag(s) |
 | -----------------------------------------------------------------------------  | -------------------------------------- | ------ |
+|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)      | [Soln](./leetcode/217.py) | HashMap |
 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)   | [Soln](./leetcode/219.py) | Hashtable |
 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Soln](./leetcode/220.py) | Hashtable, Bucket Sort |
 
 * Hashtable => Dictionary in Python
       - DefaultDict
+* Hashmap => Set in Python
 
 ## Codewars
 

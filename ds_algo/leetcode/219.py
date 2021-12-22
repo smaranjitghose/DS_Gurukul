@@ -11,9 +11,9 @@
 # - O(1) to add an element to the dictionary
 # - O(1) to check if an element is present in the dictionary
 # - O(1) for all other arithmetic and comparison operations
-# - O(n) 
+# - Hence final time complexity is O(n)
 #
-# Code:
+# ## Code:
 
 
 from collections import defaultdict
