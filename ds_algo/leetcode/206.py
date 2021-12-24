@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 
-
 # ## Algorithm:
-
+#
 # - Initialize a pointer curr to the head of the linked list. (Intuitively, it tells us where we are currently in the linked list) 
 # - Initialize a pointer prev to a None (Intuitively, it tells us the previous element in the linked list)
 # - Traverse through the linked list using the curr 
@@ -13,8 +12,10 @@
 # - Return the new head of the linked list i.e. the prev pointer.
 
 # ## Time Complexity:
-
+#
 # - O(n) to traverse the entire linked list of n elements using the curr pointer
+# - O(1) for all other arithmetic and comparison operations
+# - Hence the total time complexity will be O(n)
 
 # ## Code:
 

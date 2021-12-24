@@ -9,7 +9,7 @@
 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Soln](./leetcode/220.py) | Hashtable, Bucket Sort |
 |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Soln](./leetcode/206.py) | Linked List |
 |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [Soln](./leetcode/92.py) | Linked List |
-
+|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Soln](./leetcode/160.py) | Linked List |
 
 * Hashtable => Dictionary in Python
       - DefaultDict

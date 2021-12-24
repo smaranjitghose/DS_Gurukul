@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # ## Algorithm:
-
+#
 # - Add a dummy node at the beginning to handle edge case of the left being 1
 # - Set the anchor pointer to the dummy node
 # - Set the curr pointer to the head
@@ -18,11 +18,13 @@
 # - Return the new head of the linked list i.e. next pointer of the dummy node 
 #     - If left > 1, then this will be the head
 #     - If left = 1, then this will be the node at prev pointer
-
-
+#
 # ## Time Complexity:
-
-
+# - O(left) to traverse the linked list upto the (left-1)th node using curr pointer
+# - O(right-left+1) to traverse the linked list from the (left-1)th node upto the rth node using curr pointer
+# - O(1) for all other arithmetic and comparison operations
+# - If we assume, left + right + 1 ~ n, then the total time complexity will be O(n)
+#
 # ## Code:
 
 # Definition for singly-linked list.

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 # ## Algorithm:
+#
 # - Divide the entire lists into buckets
 # - Since we wish to find numbers which are at most t apart from each other, the bucket size is set to t+1
 # - Now, for each element in the list, we find which (t+1)-th size bucket does it fall into. Simple Remainder 
@@ -11,12 +12,13 @@
 # - Since our elements can be atmost k apart from each other, we keep removing the first bucket once we have k buckets. 
 #
 # ## Time Complexity:
+#
 # - O(n) to run through the entire list
 # - O(1) to add a bucket to the bucket dictionary
 # - O(1) to remove the first bucket from the bucket dictionary
 # - O(1) to find a bucket in the bucket dictionary
 # - O(1) for all other arithmetic and comparison operations
-# - Hence final time complexity is O(n)
+# - Hence the total time complexity is O(n)
 #
 # ## Code:
 class Solution:
