@@ -6,9 +6,11 @@
 # - Initialize a pointer curr to the head of the linked list. (Intuitively, it tells us where we are currently in the linked list) 
 # - Initialize a pointer prev to a None (Intuitively, it tells us the previous element in the linked list)
 # - Traverse through the linked list using the curr 
-# - For every node, set it's next to the node pointed by prev while updating prev. (Initially prev points at None)
-# - At the end, while curr points at a None value, the prev points at the last node of the initial linked list which has now the entire order reversed.
-# - Thus making prev pointing at the first element of the new linked list or effectively being the new head.
+# - For each node, set the next pointer of the nodes to the node for prev pointer followed by updating prev pointer to point at the current node 
+# - At the end of this traversal, the prev pointer will be pointing at the last node of initial linked list whose order has now been reversed. 
+# - Thus the prev pointer points at the first element of the reverersed linked list. It can be considered as the new head of the linked list.
+# - The curr pointer is now pointing at None which is initially the end of the original linked list.
+# - Return the new head of the linked list i.e. the prev pointer.
 
 # ## Time Complexity:
 
