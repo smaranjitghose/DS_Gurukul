@@ -63,6 +63,16 @@ Jan: (16*5) 80 + (14*5) 70 = 150
 Feb: (28*5) + 10 = 150
 March: 30*7 = 210
 
+## Codewars Kata
+## Jan: 8kyu + 7kyu : 30 + 30
+## Feb: 6kyu and 5kyu: 30 + 30
+## March: 4kyu and 3kyu: 30 + 30
+## April: 3kyu
+## May-June: 2kyu
+## July-August: 1kyu
+##
+
+
 ~540 problems
 
 - Time Complexity + Space Complexity + Master's Theorem + Recursion Tree
