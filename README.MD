@@ -31,10 +31,4 @@ List of resources, interview questions, concepts I use for my Data Science work.
 - Keypoint Detection and Pose Estimation
 - Audio Classification
 - ML System Design
-
-- SQL
-- Relational Database Management Systems
-- MongoDB
-- Elastic Search
-- Memcache
-- Redis
+- [MLOPS](./mlops/)
