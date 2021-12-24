@@ -7,6 +7,9 @@
 |[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)      | [Soln](./leetcode/217.py) | HashMap |
 |[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)   | [Soln](./leetcode/219.py) | Hashtable |
 |[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Soln](./leetcode/220.py) | Hashtable, Bucket Sort |
+|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [Soln](./leetcode/204.py) | Linked List |
+
+
 
 * Hashtable => Dictionary in Python
       - DefaultDict
