@@ -12,6 +12,7 @@
 |6| [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) |[Soln](./hackerrank/hr_sql_6.txt)|
 |7| [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) |[Soln](./hackerrank/hr_sql_7.txt)|
 |8| [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)|[Soln](./hackerrank/hr_sql_8.txt)|
+|9| [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5)|[Soln](./hackerrank/hr_sql_9.txt)|
 ## Leetcode:
 
 |Problem|Solution|
