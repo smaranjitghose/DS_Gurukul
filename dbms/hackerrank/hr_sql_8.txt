@@ -1,3 +1,3 @@
-# Problem: https://www.hackerrank.com/challenges/weather-observation-station-4/
+# Problem: https://www.hackerrank.com/challenges/weather-observation-station-3/problem
 
-SELECT COUNT(CITY) - COUNT(DISTINCT CITY) FROM STATION;
+SELECT DISTINCT CITY FROM STATION WHERE ID%2 = 0;
