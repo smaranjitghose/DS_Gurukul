@@ -237,3 +237,17 @@ SELECT movie_id FROM movies_genres WHERE rankscore IS NOT NULL LIMIT 25;
 # References:
 
 - [GATE DMBS Tutorials](https://www.youtube.com/watch?v=mMxjKFiIKxs&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&index=8): For theoretical understanding of databases
+
+- [MySQL Documentation](https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html)
+
+- w3Schools
+
+- [Mode Analytics](https://mode.com/sql-tutorial/intro-to-advanced-sql/)
+
+# Practice:
+
+- HackerRank
+- Leetcode:
+    - Easy
+    - Medium
+    - Hard
