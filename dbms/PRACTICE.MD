@@ -11,6 +11,7 @@
 |5| [Japanese Cities Name](https://www.hackerrank.com/challenges/japanese-cities-name/problem)| [Soln](./hackerrank/hr_sql_5.txt)|
 |6| [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1) |[Soln](./hackerrank/hr_sql_6.txt)|
 |7| [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3) |[Soln](./hackerrank/hr_sql_7.txt)|
+|8| [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/)|[Soln](./hackerrank/hr_sql_8.txt)|
 ## Leetcode:
 
 |Problem|Solution|
