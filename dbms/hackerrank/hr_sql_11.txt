@@ -1,1 +1,3 @@
 # Problem: https://www.hackerrank.com/challenges/revising-aggregations-the-average-function
+
+SELECT ROUND(AVG(POPULATION),3) FROM CITY WHERE DISTRICT = "California";
