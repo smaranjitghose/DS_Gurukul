@@ -1,3 +1,4 @@
 # Problem: https://www.hackerrank.com/challenges/japan-population
 
-SELECT COUNT(POPULATION) FROM CITY WHERE POPULATION>100000;
+SELECT SUM(POPULATION) FROM CITY WHERE COUNTRYCODE = "JPY";
+
