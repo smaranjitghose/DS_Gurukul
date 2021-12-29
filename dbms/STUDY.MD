@@ -246,7 +246,12 @@ SELECT movie_id FROM movies_genres WHERE rankscore IS NOT NULL LIMIT 25;
 
 # Practice:
 
-- HackerRank
+- HackerRank:
+
+|Sl No|Problem|Solution|
+|-----|------------------|-------|
+|1| [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|[Soln](./practice/hackrank/hr_sql_1.txt)|
+
 - Leetcode:
     - Easy
     - Medium
