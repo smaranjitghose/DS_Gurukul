@@ -91,6 +91,16 @@
 - Buidling APIs:
     - FastAPI
 
+
+## Number Theory:
+
+
+- Basic Primality Test✅:
+    - [Primality Test](https://www.codechef.com/problems/PRB01) - [Soln]()
+- Sieve of Eratosthenes ✅
+    - [Find nth Prime](https://www.spoj.com/problems/TDKPRIME/) - [Soln]()
+    - [Count Primes](https://leetcode.com/problems/count-primes/) - [Soln]()
+
 # References:
 
 - [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)
