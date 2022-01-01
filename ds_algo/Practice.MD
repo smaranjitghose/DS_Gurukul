@@ -15,6 +15,12 @@
       - DefaultDict
 * Hashmap => Set in Python
 
+
+## Codechef
+
+|                                      Question                                  |                Solution                | Tag(s) |
+| ----------------------------------------------------------------------------- | -------------------------------------- | ------ |
+| [Primality Test](https://www.codechef.com/problems/PRB01)  |[Soln](./codechef/PRB01.py)  | Number Theory |
 ## Codewars
 
 ### 8kyu
@@ -57,6 +63,10 @@
 |  |  |        |
 |  |  |        |
 |  |  |        |
+
+
+
+
 <!--
 Dec: 11*3 = 33
 Jan: (16*5) 80 + (14*5) 70 = 150

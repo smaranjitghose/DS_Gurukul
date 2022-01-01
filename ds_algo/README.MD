@@ -96,7 +96,7 @@
 
 
 - Basic Primality Test✅:
-    - [Primality Test](https://www.codechef.com/problems/PRB01) - [Soln]()
+    - [Primality Test](https://www.codechef.com/problems/PRB01) - [Soln](./codechef/PRB01.py) 
 - Sieve of Eratosthenes ✅
     - [Find nth Prime](https://www.spoj.com/problems/TDKPRIME/) - [Soln]()
     - [Count Primes](https://leetcode.com/problems/count-primes/) - [Soln]()
