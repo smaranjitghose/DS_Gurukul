@@ -24,6 +24,7 @@
 # ## Space Complexity:
 #
 # - O(n): To create the list of boolean values of size n indicating whether the ith number is prime or not
+# - Although a list of n elements is required, using a list of boolean values instead of a list of integers saves space as bool occupies less memory than int. This is very significant for implementation in other programming languages like C++. 
 #
 # ## Code 
 
