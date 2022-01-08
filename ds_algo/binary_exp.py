@@ -14,12 +14,12 @@
 #
 # ## Time complexity:
 #  
-# O(log(y))
-# Refer: https://cp-algorithms.com/algebra/binary-exp.html
+# - O(log(y))
+# - Refer: https://cp-algorithms.com/algebra/binary-exp.html
 # 
 # ## Space complexity:
 #
-# O(1) since we are not using any extra space
+# - O(1) since we are not using any extra space
 #
 # ## Code:
 
