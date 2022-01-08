@@ -100,6 +100,7 @@
 - Sieve of Eratosthenes ✅
     - [Find kth Prime](https://www.spoj.com/problems/TDKPRIME/) - [Soln](./spoj/TDKPRIME.py)
     - [Count Primes](https://leetcode.com/problems/count-primes/) - [Soln](./leetcode/204.py)
+    - [Sum of Primes](https://www.codechef.com/GKAH2016/problems/PRIMESUM/) - [Soln](./codechef/PRIMESUM.py)
 - Prime Factorization ✅ [ref](./prime_factor_b.py)
     - [Prime Factorization](https://www.codechef.com/problems/GEEK09) - [Soln](./codechef/GEEK09.py)
 - Binary Exponentiation
