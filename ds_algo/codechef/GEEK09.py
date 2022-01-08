@@ -23,53 +23,51 @@
 #
 # ## Space Complexity:
 #
-# - O(1) since we would be having a constant number of prime factors for any number [**Need to check**]
+# - O(1) since we are not using any extra space
 #
 # ## Code:
 
-def get_prime_factors(n:int)->list:
+
+def get_prime_factors(n):
 
     if n <2:
-        return []
+        return 0
     
-    prime_factors = []
+    pf_count = 0
 
     # Get all multiples of 2 if possible
     if n%2 ==0:
-        count = 0
         while n%2 == 0:
-            count += 1
             n = n/2
-        prime_factors.append((2,count))
+        pf_count+=1 
     
     # Get all multiples of 3 if possible
     if n%3 ==0:
-        count = 0
         while n%3 == 0:
-            count += 1
             n = n/3
-        prime_factors.append((3,count))
+        pf_count+=1
     
     # Other than 2 and 3, all prime numbers are of the form 6k+1 or 6k-1
     i = 5
     while i*i <n:
         if n%i ==0:
-            count = 0
             while n%i == 0:
-                count += 1
-                n = n/i
-            prime_factors.append((i,count))
+                n /= i
+            pf_count+=1 
         if n%(i+2) ==0:
-            count = 0
             while n%(i+2) == 0:
-                count += 1
-                n = n/(i+2)
-            prime_factors.append((i+2,count))
+                n /= (i+2)
+            pf_count+=1 
         i += 6
     
     if n>2:
-        prime_factors.append((n,1))
+        pf_count+=1 
 
-    return prime_factors
+    return pf_count
 
-# print(get_prime_factors(3600))
+
+
+T=int(input())
+for _ in range(T):
+    N=int(input())
+    print(get_prime_factors(N))

@@ -23,6 +23,7 @@
 |                                      Question                                  |                Solution                | Tag(s) |
 | ----------------------------------------------------------------------------- | -------------------------------------- | ------ |
 | [Primality Test](https://www.codechef.com/problems/PRB01)  |[Soln](./codechef/PRB01.py)  | Number Theory |
+|[Prime Factorization](https://www.codechef.com/problems/GEEK09) | [Soln](./codechef/GEEK09.py)| Number Theory |
 ## Codewars
 
 ### 8kyu

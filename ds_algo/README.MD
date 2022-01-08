@@ -100,8 +100,8 @@
 - Sieve of Eratosthenes ✅
     - [Find kth Prime](https://www.spoj.com/problems/TDKPRIME/) - [Soln](./spoj/TDKPRIME.py)
     - [Count Primes](https://leetcode.com/problems/count-primes/) - [Soln](./leetcode/204.py)
-- Prime Factorization
-    - [Prime Factorization](https://www.codechef.com/problems/GEEK09)
+- Prime Factorization ✅ [ref](./prime_factor_b.py)
+    - [Prime Factorization](https://www.codechef.com/problems/GEEK09) - [Soln](./codechef/GEEK09.py)
 - Binary Exponentiation
 - Matrix Exponentiaton
 - Calculating Nth element of a recurrence relation
