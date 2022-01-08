@@ -33,6 +33,7 @@
 | ----------------------------------------------------------------------------- | -------------------------------------- | ------ |
 |[Find kth Prime](https://www.spoj.com/problems/TDKPRIME/) |[Soln](./spoj/TDKPRIME.py)| Number Theory |
 |[Last Digit](https://www.spoj.com/problems/LASTDIG/) | [Soln](./spoj/TDKPRIME.py)| Number Theory |
+|[ZSUM](https://www.spoj.com/problems/ZSUM/) | [Soln](./spoj/ZSUM.py)| Number Theory |
 
 
 ## Codewars

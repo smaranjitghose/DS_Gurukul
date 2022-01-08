@@ -104,7 +104,8 @@
 - Prime Factorization ✅ [ref](./prime_factor_b.py)
     - [Prime Factorization](https://www.codechef.com/problems/GEEK09) - [Soln](./codechef/GEEK09.py)
 - Binary Exponentiation✅ 
-    - [Last Digit](https://www.spoj.com/problems/LASTDIG/) - [Soln](./spoj/TDKPRIME.py)
+    - [Last Digit](https://www.spoj.com/problems/LASTDIG/) - [Soln](./spoj/LASTDIG.py)
+    - [ZSUM](https://www.spoj.com/problems/ZSUM/) - [Soln](./spoj/ZSUM.py)
 - Matrix Exponentiaton
 - Calculating Nth element of a recurrence relation
 - Euclid's Algorithm
