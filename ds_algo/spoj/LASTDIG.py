@@ -24,6 +24,9 @@
 #
 # ## Code:
 
+# To prevent overflow
+M = 10**9+7
+
 def find_lastdig(x:int, y:int) -> int:
     if y == 0:
         return 1
@@ -34,9 +37,9 @@ def find_lastdig(x:int, y:int) -> int:
     while y > 0:
         # If the power is odd, multiply the result with x
         if y & 1:
-            res *= x
+            res *= x%M
         # Square the base
-        x *= x
+        x *= x%M
         # Reduce the power by 2
         y >>= 1
     return res%10
