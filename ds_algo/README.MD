@@ -100,7 +100,29 @@
 - Sieve of Eratosthenes ✅
     - [Find kth Prime](https://www.spoj.com/problems/TDKPRIME/) - [Soln](./spoj/TDKPRIME.py)
     - [Count Primes](https://leetcode.com/problems/count-primes/) - [Soln](./leetcode/204.py)
-
+- Prime Factorization
+    - [Prime Factorization](https://www.codechef.com/problems/GEEK09)
+- Binary Exponentiation
+- Matrix Exponentiaton
+- Calculating Nth element of a recurrence relation
+- Euclid's Algorithm
+- Modular Arithmatic
+- Modular GCD
+- Modulo Multiplicative Inverse
+- Finding Modulo Inverse
+- Total Divisors
+- Binomial Coefficient
+- Euler Toitent Function and GCD Sume
+- Segmented Seive
+- Finding Common Divisors
+- Prime Factorization (using Sieve)
+- Non-Deterministic Primality Test
+- Fermat Primality Test
+- Miller Rabin Primality Test
+- Extended Euclidean Algorithm
+- Linear Diophantine Equations
+- Chinese Remainder Theorem
+- Wilson's Theorem
 # References:
 
 - [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)
