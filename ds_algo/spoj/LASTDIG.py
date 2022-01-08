@@ -8,9 +8,10 @@
 # => (3^4)^3 * 3^1
 # => (3^4)^2 * 3^1 * 3^4
 # => 3^8 * 3^1 * 3^4
-# We run an iteration, where at each step we reduce the power by 2
+# - We run an iteration, where at each step we reduce the power by 2
 #  - When the power is odd, we multiply the result with base
 #  - The power is reduced by 2 while the base is squared
+# - After the binary exponentiation, we take the last digit using modulo 10
 #
 # ## Time complexity:
 #  
@@ -23,7 +24,7 @@
 #
 # ## Code:
 
-def binary_exponentiation(x:int, y:int) -> int:
+def find_lastdig(x:int, y:int) -> int:
     if y == 0:
         return 1
     if y == 0:
@@ -38,6 +39,10 @@ def binary_exponentiation(x:int, y:int) -> int:
         x *= x
         # Reduce the power by 2
         y >>= 1
-    return res
+    return res%10
 
-# print(binary_exponentiation(2, 5000))
+
+T = int(input())
+for _ in range(T):
+    x, y = map(int, input().split())
+    print(find_lastdig(x, y))

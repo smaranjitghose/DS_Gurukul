@@ -103,7 +103,8 @@
     - [Sum of Primes](https://www.codechef.com/GKAH2016/problems/PRIMESUM/) - [Soln](./codechef/PRIMESUM.py)
 - Prime Factorization ✅ [ref](./prime_factor_b.py)
     - [Prime Factorization](https://www.codechef.com/problems/GEEK09) - [Soln](./codechef/GEEK09.py)
-- Binary Exponentiation✅ [ref](./binary_exp.py)
+- Binary Exponentiation✅ 
+    - [Last Digit](https://www.spoj.com/problems/LASTDIG/) - [Soln](./spoj/TDKPRIME.py)
 - Matrix Exponentiaton
 - Calculating Nth element of a recurrence relation
 - Euclid's Algorithm

@@ -26,6 +26,15 @@
 | [Sum of Primes](https://www.codechef.com/GKAH2016/problems/PRIMESUM/) |[Soln](./codechef/PRIMESUM.py)  | Number Theory |
 |[Prime Factorization](https://www.codechef.com/problems/GEEK09) | [Soln](./codechef/GEEK09.py)| Number Theory |
 
+
+## SPOJ
+
+|                                      Question                                  |                Solution                | Tag(s) |
+| ----------------------------------------------------------------------------- | -------------------------------------- | ------ |
+|[Find kth Prime](https://www.spoj.com/problems/TDKPRIME/) |[Soln](./spoj/TDKPRIME.py)| Number Theory |
+|[Last Digit](https://www.spoj.com/problems/LASTDIG/) | [Soln](./spoj/TDKPRIME.py)| Number Theory |
+
+
 ## Codewars
 
 ### 8kyu
