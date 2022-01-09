@@ -11,6 +11,7 @@
 |[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [Soln](./leetcode/92.py) | Linked List |
 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Soln](./leetcode/160.py) | Linked List |
 |[Count Primes](https://leetcode.com/problems/count-primes/)|[Soln](./leetcode/204.py) | Number Theory |
+|[Greatest Common Divisor of Arraty](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)|[Soln](./leetcode/1917.py) | Number Theory |
 
 
 * Hashtable => Dictionary in Python
