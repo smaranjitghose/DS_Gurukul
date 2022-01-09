@@ -126,8 +126,15 @@
 - Linear Diophantine Equations
 - Chinese Remainder Theorem
 - Wilson's Theorem
-- Catalan Numbers:
+- [Catalan Numbers](http://www.geometer.org/mathcircles/catalan.pdf):
     - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/): [Soln](./leetcode/96.py)
+    - Unlabelled Trees
+    - Balanced Paranthesis
+    - [Dyck Words](https://www.geeksforgeeks.org/dyck-words-of-given-length/)
+    - Mountain Ranges
+    - Path on Grid
+    - Convex Polygon
+    - 
 # References:
 
 - [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)
@@ -135,3 +142,4 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 - [CP Algorithms](https://cp-algorithms.com/)
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
+- [Kreeti Purswani: Problems on Catlan Numbers](https://www.youtube.com/watch?v=0pTN0qzpt-Y)
