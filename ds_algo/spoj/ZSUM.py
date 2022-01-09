@@ -13,7 +13,7 @@
 #
 # ## Time complexity:
 # 
-# - O(log((max(x,y)))))
+# - O(log((max(n,k)))))
 #
 # ## Space complexity:
 #

@@ -12,7 +12,7 @@
 |[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Soln](./leetcode/160.py) | Linked List |
 |[Count Primes](https://leetcode.com/problems/count-primes/)|[Soln](./leetcode/204.py) | Number Theory |
 |[Greatest Common Divisor of Arraty](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)|[Soln](./leetcode/1917.py) | Number Theory |
-
+|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Soln](./leetcode/96.py) | Number Theory |
 
 * Hashtable => Dictionary in Python
       - DefaultDict

@@ -126,6 +126,8 @@
 - Linear Diophantine Equations
 - Chinese Remainder Theorem
 - Wilson's Theorem
+- Catalan Numbers:
+    - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/): [Soln](./leetcode/96.py)
 # References:
 
 - [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)
