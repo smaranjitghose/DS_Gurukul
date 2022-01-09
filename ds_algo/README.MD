@@ -126,15 +126,20 @@
 - Linear Diophantine Equations
 - Chinese Remainder Theorem
 - Wilson's Theorem
-- [Catalan Numbers](http://www.geometer.org/mathcircles/catalan.pdf):
+- Catalan Numbers: <sup>1</sup>
     - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/): [Soln](./leetcode/96.py)
     - Unlabelled Trees
     - Balanced Paranthesis
     - [Dyck Words](https://www.geeksforgeeks.org/dyck-words-of-given-length/)
     - Mountain Ranges
-    - Path on Grid
-    - Convex Polygon
-    - 
+    - Number of diagonal avoiding paths between the opposite corners of a n*n grid which are:
+        - Above the diagonal
+        - Below the diagonal
+    - Number of ways to triangulate a polygon with n+2 sides
+    - Disjoint Chords
+    - Catlan Triangle
+    - Multiplication Ordering
+    - Non-Crossing Handshakes
 # References:
 
 - [Learn Python the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888)
@@ -142,4 +147,6 @@
 - [GeeksforGeeks](https://www.geeksforgeeks.org/dynamic-programming/)
 - [CP Algorithms](https://cp-algorithms.com/)
 - [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
-- [Kreeti Purswani: Problems on Catlan Numbers](https://www.youtube.com/watch?v=0pTN0qzpt-Y)
+
+- <sup>1</sup> [Kreeti Purswani: Problems on Catalan Numbers](https://www.youtube.com/watch?v=0pTN0qzpt-Y)
+- <sup>1</sup> [Tom Davis: Catalan Numbers]((http://www.geometer.org/mathcircles/catalan.pdf))
